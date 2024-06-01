@@ -1,0 +1,2 @@
+# Block_Adobe_genuine_verification_Hosts
+屏蔽 Adobe正版验证服务器
